@@ -30,7 +30,7 @@ Folder Cupon:
 
 Folder Favoritos:
 
-1). Dentro de este folder, se encuentra el metodo GET "Favoritos" que hace alución al Desafio 2 del Challenge de MercadoLibre y se mandan por parametros los siguientes valores por parametro:
+1). Dentro de este folder, se encuentra el metodo GET "Favoritos" que hace alución al Desafio 2 del Challenge de MercadoLibre y se mandan por parametros los siguientes valores:
   -  items: Los items que se quieren filtar
   -  fechaInicial: Rango de fecha inicial a filtar
   -  fechaFinal: Rango de fecha final a filtar
