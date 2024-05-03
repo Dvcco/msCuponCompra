@@ -44,8 +44,10 @@ Se realizo el despliegue del .jar dentro del cloud AWS.
 
 Metodos Post Cupon:
 
-http://18.234.211.29:8080](http://18.234.211.29:8080/challenge/mercadolibre/items
+http://18.234.211.29:8080/challenge/mercadolibre/items
+
 http://18.234.211.29:8080/challenge/mercadolibre/coupon
 
 Metodos Get Favoritos:
+
 http://18.234.211.29:8080/challenge/mercadolibre/coupon/stats?items=MLA1277641650,MLA1412962259,MLA1394823556, MLA1398389871, MLA1145029073&fechaInicial=2024-02-04&fechaFinal=2024-03-04
