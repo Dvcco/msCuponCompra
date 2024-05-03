@@ -1,0 +1,9 @@
+application:
+spring:
+  application:
+    name: msCuponCompra
+info:
+  project:
+    version: 1.0.0
+    title: Challenge MercadoLibre
+    description: Challenge MercadoLibre Daniel Casallas
